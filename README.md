@@ -1,0 +1,2 @@
+# PowerBIManagedRefreshAPI
+PowerBi refresh API
